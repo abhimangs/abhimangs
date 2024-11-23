@@ -6,6 +6,6 @@ I'm a high school student learning to code, design, and exploring new technologi
 #include <iostream>
 using namespace std;
 int main(){
-    cout << "Hello World" << endl;
+    cout << "Hello, World!" << endl;
     return 0;
 }
