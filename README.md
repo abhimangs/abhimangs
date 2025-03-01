@@ -9,3 +9,6 @@ int main(){
     cout << "Hello, World!" << endl;
     return 0;
 }
+
+
+![Abhiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=radical)
