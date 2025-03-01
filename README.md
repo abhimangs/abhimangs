@@ -1,7 +1,3 @@
-![Abhiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=15&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ffff00)
+[![Abhiman GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=transparent&title_color=ffffff&hide_border=true&text_color=ffffff&icon_color=ffffff&include_all_commits=false&ring_color=ffffff&hide_title=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=abhimangs&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-![Abhiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
+[![Abhiman GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=default&title_color=111111&hide_border=true&text_color=111111&icon_color=111111&include_all_commits=false&ring_color=111111&hide_title=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
