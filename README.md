@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm Abhiman</h1>
-<p align="center">Developer • Notion Creator • Linux User</p>
+<p align="center">Python Developer • Notion Creator • Linux User</p>
 
 <!-- Skills / Tools -->
 <div align="center">
@@ -38,6 +38,6 @@
 
 [![Email](https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=thunderbird&logoColor=0A84FF)](mailto:theabhimangs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=briefcase&logoColor=0A66C2)](https://www.linkedin.com/in/abhimangs)
-[![Instagram](https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/abhimangs)
+[![Instagram](https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/theabhimangs)
 [![Reddit](https://img.shields.io/badge/Reddit-1E1E1E?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/abhimangs)
 [![Twitter](https://img.shields.io/badge/Twitter-1E1E1E?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/abhimangs)
