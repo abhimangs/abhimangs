@@ -30,3 +30,14 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=abhimangs&theme=tokyonight&hide_border=true&dates=hide" />
 </p>
+
+<br>
+
+<!-- Contact -->
+### 📬 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=thunderbird&logoColor=0A84FF)](mailto:theabhimangs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=briefcase&logoColor=0A66C2)](https://www.linkedin.com/in/abhimangs)
+[![Instagram](https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/abhimangs)
+[![Reddit](https://img.shields.io/badge/Reddit-1E1E1E?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/abhimangs)
+[![Twitter](https://img.shields.io/badge/Twitter-1E1E1E?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/abhimangs)
