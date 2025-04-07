@@ -32,10 +32,7 @@ Langs:    Python, C++, Bash
 Design:   Figma, Photoshop
 ```
 
-<div align="center">
-    
-[![Abhiman GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=transparent&title_color=ffffff&hide_border=true&text_color=ffffff&icon_color=ffffff&include_all_commits=false&ring_color=ffffff&hide_title=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Abhiman GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=default&title_color=111111&hide_border=true&text_color=111111&icon_color=111111&include_all_commits=false&ring_color=111111&hide_title=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</div>
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=abhimangs&theme=tokyonight&hide_border=true&dates=hide" />
+</p>
