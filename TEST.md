@@ -24,3 +24,26 @@
     </tr>
   </tbody>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3 align="center">📊 My GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commits-since/abhimangs/abhimangs?style=for-the-badge&logo=github&label=Total%20Commits&labelColor=2f3136&color=blueviolet" />
+  <img src="https://img.shields.io/badge/Total%20PRs-0-blueviolet?style=for-the-badge&logo=github&labelColor=2f3136" />
+  <img src="https://img.shields.io/github/stars/abhimangs?style=for-the-badge&logo=github&label=Total%20Stars&labelColor=2f3136&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/abhimangs?style=for-the-badge&logo=github&label=Followers&labelColor=2f3136&color=blueviolet" />
+  <img src="https://img.shields.io/github/repos?style=for-the-badge&logo=github&label=Public%20Repos&labelColor=2f3136&color=blueviolet&query=user%3Aabhimangs" />
+</p>
