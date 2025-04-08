@@ -1,3 +1,9 @@
+
+![Visitor Count](https://profile-counter.glitch.me/abhimangs/count.svg)
+
+
+
+
 <h3 align="center">🚀 My Open Source Projects</h3>
 
 <table align="center" width="100%" style="border-collapse: collapse;">
@@ -34,10 +40,6 @@
 
 
 
-
-
-
-
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
@@ -47,3 +49,11 @@
   <img src="https://img.shields.io/github/followers/abhimangs?style=for-the-badge&logo=github&label=Followers&labelColor=2f3136&color=blueviolet" />
   <img src="https://img.shields.io/github/repos?style=for-the-badge&logo=github&label=Public%20Repos&labelColor=2f3136&color=blueviolet&query=user%3Aabhimangs" />
 </p>
+
+
+
+
+
+
+
+
