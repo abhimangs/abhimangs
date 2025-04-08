@@ -1,59 +1,43 @@
+<h3 align="center">🎨 Featured Project: <code>obsidian-vortex</code></h3>
+<p align="center">A sleek Obsidian theme with 2300+ users, blending style and functionality.</p>
 
-![Visitor Count](https://profile-counter.glitch.me/abhimangs/count.svg)
-
-
-
-
-<h3 align="center">🚀 My Open Source Projects</h3>
-
-<table align="center" width="100%" style="border-collapse: collapse;">
-  <thead align="center">
-    <tr style="background-color: #2f3136; color: #ffffff;">
-      <th style="padding: 10px; border-radius: 8px 0 0 8px;">🎁 Project Name</th>
-      <th style="padding: 10px;">⭐ Stars</th>
-      <th style="padding: 10px;">🛎 Issues</th>
-      <th style="padding: 10px; border-radius: 0 8px 8px 0;">📊 Commits</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <td><a href="https://github.com/abhimangs/obsidian-vortex"><b>obsidian-vortex</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/abhimangs/obsidian-vortex?style=flat-square&labelColor=343b41" /></td>
-      <td><img src="https://img.shields.io/github/issues/abhimangs/obsidian-vortex?style=flat-square&labelColor=343b41" /></td>
-      <td><img src="https://img.shields.io/github/commit-activity/y/abhimangs/obsidian-vortex?style=flat-square&labelColor=343b41" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/abhimangs/dotfiles"><b>dotfiles</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/abhimangs/dotfiles?style=flat-square&labelColor=343b41" /></td>
-      <td><img src="https://img.shields.io/github/issues/abhimangs/dotfiles?style=flat-square&labelColor=343b41" /></td>
-      <td><img src="https://img.shields.io/github/commit-activity/y/abhimangs/dotfiles?style=flat-square&labelColor=343b41" /></td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
-
-
-
-
-
-
-<h3 align="center">📊 My GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/github/commits-since/abhimangs/abhimangs?style=for-the-badge&logo=github&label=Total%20Commits&labelColor=2f3136&color=blueviolet" />
-  <img src="https://img.shields.io/badge/Total%20PRs-0-blueviolet?style=for-the-badge&logo=github&labelColor=2f3136" />
-  <img src="https://img.shields.io/github/stars/abhimangs?style=for-the-badge&logo=github&label=Total%20Stars&labelColor=2f3136&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/abhimangs?style=for-the-badge&logo=github&label=Followers&labelColor=2f3136&color=blueviolet" />
-  <img src="https://img.shields.io/github/repos?style=for-the-badge&logo=github&label=Public%20Repos&labelColor=2f3136&color=blueviolet&query=user%3Aabhimangs" />
-</p>
-
-
-
-
-
-
-
-
+<div align="center">
+  <!-- Left: Cover Image -->
+  <div style="display:inline-block; width:30%; text-align:left; vertical-align:top;">
+    <a href="https://github.com/abhimangs/obsidian-vortex">
+      <img src="https://raw.githubusercontent.com/abhimangs/abhimangs/main/assets/vortex-cover.png" alt="obsidian-vortex cover" width="100%" style="border-radius:8px;" />
+    </a>
+  </div>
+  <!-- Right: Stats -->
+  <div style="display:inline-block; width:60%; vertical-align:top; text-align:center;">
+    <!-- Stars -->
+    <a href="https://github.com/abhimangs/obsidian-vortex">
+      <img src="https://img.shields.io/github/stars/abhimangs/obsidian-vortex?style=flat-square&logo=github&label=Stars&color=2f3136" />
+    </a>
+    <br><br>
+    <!-- Issues and PRs Cluster -->
+    <a href="https://github.com/abhimangs/obsidian-vortex/issues">
+      <img src="https://img.shields.io/github/issues/abhimangs/obsidian-vortex?style=flat-square&label=Open%20Issues&color=2f3136" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/abhimangs/obsidian-vortex/pulls">
+      <img src="https://img.shields.io/github/issues-pr/abhimangs/obsidian-vortex?style=flat-square&label=Open%20PRs&color=2f3136" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/abhimangs/obsidian-vortex/pulls?q=is%3Apr+is%3Aclosed">
+      <img src="https://img.shields.io/github/issues-pr-closed/abhimangs/obsidian-vortex?style=flat-square&label=Merged%20PRs&color=2f3136" />
+    </a>
+    <br><br>
+    <!-- Commit and Release Cluster -->
+    <a href="https://github.com/abhimangs/obsidian-vortex/commits/main">
+      <img src="https://img.shields.io/github/last-commit/abhimangs/obsidian-vortex?style=flat-square&label=Last%20Commit&color=2f3136" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/abhimangs/obsidian-vortex/releases">
+      <img src="https://img.shields.io/github/v/release/abhimangs/obsidian-vortex?style=flat-square&label=Latest%20Release&color=2f3136" />
+    </a>
+    <br><br>
+    <!-- Users -->
+    <img src="https://img.shields.io/badge/Users-2300%2B-brightgreen?style=flat-square" />
+  </div>
+</div>
