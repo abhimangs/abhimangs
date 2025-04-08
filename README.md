@@ -15,7 +15,7 @@
 
 <!-- Projects -->
 ### 🧰 Featured Projects
-- 🎨 [**Vortex**](https://github.com/abhimangs/obsidian-vortex) – A beautifully animated and highly customized theme for Obsidian with **2300+ downloads**.
+- 🎨 [**Vortex**](https://github.com/abhimangs/obsidian-vortex) – A beautifully animated and highly customized theme for Obsidian with **2300+ active users**.
 - 🛠️ [**dotfiles**](https://github.com/abhimangs/dotfiles) – My personal Linux dotfiles bundled with CLI tools and install scripts to set up my entire system in one go.
 
 <!-- About Section -->
