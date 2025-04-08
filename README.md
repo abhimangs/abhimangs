@@ -23,21 +23,19 @@
 - 🎓 I'm a high school graduate currently exploring the world of Linux and open source.
 - 🚀 I love building projects that interest me and help others along the way.
 
-<br>
-
 <!-- GitHub Stats -->
+### 🍁 GitHub Stats
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=abhimangs&theme=tokyonight&hide_border=true&dates=hide" />
 </p>
 
-<!-- Screenshot -->
-### 🖼️ My System
+<!-- GitHub Stats -->
+### 🎯 My Current Goals
 
-<p align="center">
-  <img src="assets/specs.png" alt="My System Specs Screenshot" width="650px"/>
-</p>
-
+- 🔧 Working on completing my **[Arch Linux dotfiles](https://github.com/abhimangs/dotfiles)** setup so I can bootstrap my system in one go  
+- 🌟 Aiming to get **100 stars** on my **[Vortex](https://github.com/abhimangs/obsidian-vortex)** Obsidian theme — would mean a lot!  
+- 🐍 Grinding Python daily to reach that **advanced** level and build cooler stuff
 
 <br>
 
