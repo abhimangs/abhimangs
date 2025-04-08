@@ -31,6 +31,14 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=abhimangs&theme=tokyonight&hide_border=true&dates=hide" />
 </p>
 
+<!-- Screenshot -->
+### 🖼️ My System
+
+<p align="center">
+  <img src="assets/specs.png" alt="My System Specs Screenshot" width="650px"/>
+</p>
+
+
 <br>
 
 <!-- Contact -->
