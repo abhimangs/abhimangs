@@ -37,6 +37,12 @@
 - 🌟 Aiming to get **100 stars** on my **[Vortex](https://github.com/abhimangs/obsidian-vortex)** Obsidian theme — would mean a lot!  
 - 🐍 Grinding Python daily to reach that **advanced** level and build cooler stuff
 
+### ⚙️ PC Specifications
+
+<p align="left">
+  <img src="assets/pc.png" alt="My PC Specs" width="500"/>
+</p>
+
 <!-- Contact -->
 ### 🌐 Connect with Me
 **Contact Me:** You can reach me at **[theabhimangs@gmail.com](mailto:theabhimangs@gmail.com)** for collaborations, questions, or just to say hi!
