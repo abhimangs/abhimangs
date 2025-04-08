@@ -26,8 +26,8 @@
 <!-- GitHub Stats -->
 ### 🍁 GitHub Stats
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=abhimangs&theme=tokyonight&hide_border=true&dates=hide" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="50%" alt="AbhimanGS's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=abhimangs&theme=monokai-metallian&hide_border=true&short_numbers=true" />
 </p>
 
 <!-- GitHub Stats -->
