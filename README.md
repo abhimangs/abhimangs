@@ -37,13 +37,16 @@
 - 🌟 Aiming to get **100 stars** on my **[Vortex](https://github.com/abhimangs/obsidian-vortex)** Obsidian theme — would mean a lot!  
 - 🐍 Grinding Python daily to reach that **advanced** level and build cooler stuff
 
-<br>
-
 <!-- Contact -->
-### 📬 Let's Connect!
+### 🌐 Connect with Me
+**Contact Me:** You can reach me at **[theabhimangs@gmail.com](mailto:theabhimangs@gmail.com)** for collaborations, questions, or just to say hi!
 
-[![Email](https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=thunderbird&logoColor=0A84FF)](mailto:theabhimangs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=briefcase&logoColor=0A66C2)](https://www.linkedin.com/in/abhimangs)
-[![Instagram](https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/theabhimangs)
-[![Reddit](https://img.shields.io/badge/Reddit-1E1E1E?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/abhimangs)
-[![Twitter](https://img.shields.io/badge/Twitter-1E1E1E?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/abhimangs)
+[![Email](https://img.shields.io/badge/Email-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white)](mailto:theabhimangs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimangs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theabhimangs)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@theabhimangs)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/abhimangs.bsky.social)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/abhimangs)
+[![Twitter (X)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/abhimangs)
+
+
