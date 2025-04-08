@@ -40,7 +40,7 @@
 ### ⚙️ PC Specifications
 
 <p align="left">
-  <img src="assets/pc.png" alt="My PC Specs" width="500"/>
+  <img src="assets/spec-new.png" alt="My PC Specs" width="500"/>
 </p>
 
 <!-- Contact -->
