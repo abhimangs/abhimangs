@@ -13,15 +13,15 @@
 
 </div>
 
-<!-- About Section -->
-### 🧠 About Me
-- 🎓 I'm a high school graduate currently exploring the world of Linux and open source.
-- 🚀 I love building projects that interest me and help others along the way.
-
 <!-- Projects -->
 ### 🧰 Featured Projects
 - 🎨 [**Vortex**](https://github.com/abhimangs/obsidian-vortex) – A beautifully animated and highly customized theme for Obsidian with **2300+ downloads**.
 - 🛠️ [**dotfiles**](https://github.com/abhimangs/dotfiles) – My personal Linux dotfiles bundled with CLI tools and install scripts to set up my entire system in one go.
+
+<!-- About Section -->
+### 🧠 About Me
+- 🎓 I'm a high school graduate currently exploring the world of Linux and open source.
+- 🚀 I love building projects that interest me and help others along the way.
 
 <br>
 
