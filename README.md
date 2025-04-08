@@ -7,7 +7,7 @@
 
 [![Arch](https://img.shields.io/badge/Arch_Linux-1E1E1E?style=for-the-badge&logo=arch-linux&logoColor=1793D1)](https://archlinux.org)
 [![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=F7E025)](https://www.python.org)
-[![Notion](https://img.shields.io/badge/Notion-1E1E1E?style=for-the-badge&logo=notion&logoColor=ffffff)](https://www.notion.so)
+[![Notion](https://img.shields.io/badge/Notion-1E1E1E?style=for-the-badge&logo=notion&logoColor=ffffff)](https://www.notion.com/@abhimangs)
 [![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F14E32)](https://git-scm.com/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-1E1E1E?style=for-the-badge&logo=obsidian&logoColor=7C3AED)](https://obsidian.md)
 
