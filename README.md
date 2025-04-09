@@ -10,6 +10,7 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/@abhimangs)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhimangs/)
 
 </div>
 
@@ -42,6 +43,11 @@
 <p align="left">
   <img src="assets/spec-new.png" alt="My PC Specs" width="500"/>
 </p>
+
+<!-- ⚙️ Skills & Tools -->
+### ⚙️ Skills & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,bash,git,github,linux,arch,notion,obsidian,cpp,vscode,neovim,photoshop,md,wordpress)](https://github.com/abhimangs)
 
 <!-- Contact -->
 ### 🌐 Connect with Me
