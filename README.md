@@ -23,6 +23,7 @@
 ### 🧠 About Me
 - 🎓 I'm a high school graduate currently exploring the world of Linux and open source.
 - 🚀 I love building projects that interest me and help others along the way.
+- 🎓 I completed [Harvard's CS50 Introduction to Computer Science](https://certificates.cs50.io/baa4fbfe-b4ab-4938-8eb7-40b9a88017f7.pdf?size=letter) in May 2024.
 
 <!-- GitHub Stats -->
 ### 🍁 GitHub Stats
