@@ -52,7 +52,7 @@
 
 <!-- Contact -->
 ### 🌐 Connect with Me
-**Contact Me:** You can reach me at **[theabhimangs@gmail.com](mailto:theabhimangs@gmail.com)** for collaborations, questions, or just to say hi!
+**Get in Touch:** Drop me a line at **[theabhimangs@gmail.com](mailto:theabhimangs@gmail.com)** for collabs, queries, or a quick hello!
 
 [![Email](https://img.shields.io/badge/Email-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white)](mailto:theabhimangs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimangs)
