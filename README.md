@@ -28,11 +28,15 @@
 <!-- GitHub Stats -->
 ### 🍁 GitHub Stats
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&theme=holi&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="50%" alt="AbhimanGS's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=abhimangs&theme=monokai-metallian&hide_border=true&short_numbers=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=161b22&title_color=f2cc8f&text_color=f2cc8f&icon_color=ff914d" />
+  <img width="50%" alt="AbhimanGS's streak" src="https://github-readme-streak-stats.herokuapp.com?user=abhimangs&theme=default&hide_border=true&background=161b22&currStreakNum=f2cc8f&sideNums=f2cc8f&currStreakLabel=f2cc8f&sideLabels=f2cc8f&dates=f2cc8f&ring=ff914d&fire=ff914d" />
 </p>
 
-[![Abhiman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhimangs&theme=github-compact&custom_title=✨%20Abhiman's%20GitHub%20Activity%20✨&hide_border=true&bg_color=0d1117&color=f2cc8f&line=ff914d&point=ff914d&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="98%", src="https://github-readme-activity-graph.vercel.app/graph?username=abhimangs&custom_title=✨%20Abhiman's%20GitHub%20Activity%20✨&hide_border=true&bg_color=161b22&color=f2cc8f&line=ff914d&point=ff914d&area=true" alt="Abhiman's GitHub Activity Graph"/>
+  </a>
+</p>
 
 <!-- GitHub Stats -->
 ### 🎯 My Current Goals
