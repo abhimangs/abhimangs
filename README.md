@@ -41,8 +41,8 @@
 <!-- GitHub Stats -->
 ### 🎯 My Current Goals
 
-- 🔧 Working on completing my **[Arch Linux dotfiles](https://github.com/abhimangs/dotfiles)** setup so I can bootstrap my system in one go  
-- 🌟 Aiming to get **100 stars** on my **[Vortex](https://github.com/abhimangs/obsidian-vortex)** Obsidian theme, would mean a lot!  
+- 🔧 Working on completing my **[Arch Linux dotfiles](https://github.com/abhimangs/dotfiles)** setup so I can bootstrap my system in one go.
+- 🌟 Aiming to get **100 stars** on my **[Vortex](https://github.com/abhimangs/obsidian-vortex)** Obsidian theme, would mean a lot!
 - 🐍 Grinding Python daily to reach that **advanced** level and build cooler stuff
 
 ### ⚙️ PC Specifications
