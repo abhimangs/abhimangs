@@ -43,7 +43,7 @@
 
 - 🔧 Working on completing my **[Arch Linux dotfiles](https://github.com/abhimangs/dotfiles)** setup so I can bootstrap my system in one go.
 - 🌟 Aiming to get **100 stars** on my **[Vortex](https://github.com/abhimangs/obsidian-vortex)** Obsidian theme, would mean a lot!
-- 🐍 Grinding Python daily to reach that **advanced** level and build cooler stuff
+- 🐍 Level up Python skills to **build advanced projects**.
 
 <!-- ⚙️ Skills & Tools -->
 ### 💻 Languages I Use
