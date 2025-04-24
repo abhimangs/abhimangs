@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm Abhiman</h1>
-<p align="center">Python Developer • Notion Creator • Linux User</p>
+<p align="center">🐍 Python Developer • 🧠 Notion Nerd • 🐧 Linux Customizer</p>
 
 <!-- Skills / Tools -->
 <div align="center">
@@ -45,16 +45,20 @@
 - 🌟 Aiming to get **100 stars** on my **[Vortex](https://github.com/abhimangs/obsidian-vortex)** Obsidian theme, would mean a lot!
 - 🐍 Grinding Python daily to reach that **advanced** level and build cooler stuff
 
+<!-- ⚙️ Skills & Tools -->
+### 💻 Languages I Use
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,bash)](https://github.com/abhimangs)
+
+### ⚙️ Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,arch,notion,obsidian,vscode,neovim,photoshop,md,wordpress)](https://github.com/abhimangs)
+
 ### ⚙️ PC Specifications
 
 <p align="left">
   <img src="assets/spec-new.png" alt="My PC Specs" width="500"/>
 </p>
-
-<!-- ⚙️ Skills & Tools -->
-### ⚙️ Skills & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,bash,git,github,linux,arch,notion,obsidian,cpp,vscode,neovim,photoshop,md,wordpress)](https://github.com/abhimangs)
 
 <!-- Contact -->
 ### 🌐 Connect with Me
