@@ -50,7 +50,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,bash)](https://github.com/abhimangs)
 
-### ⚙️ Tools
+### 🛠️ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,arch,notion,obsidian,vscode,neovim,photoshop,md,wordpress)](https://github.com/abhimangs)
 
