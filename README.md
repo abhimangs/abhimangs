@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm Abhiman</h1>
-<p align="center">🐍 Python Developer • 🧠 Notion Nerd • 🐧 Linux Customizer</p>
+<p align="center">🐍 Python Developer • 🧠 Notion Nerd • 🐧 Linux Customizer </p>
 
 <!-- Skills / Tools -->
 <div align="center">
