@@ -8,7 +8,7 @@
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org)
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/creators/abhimangs/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/@abhimangs)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.com/@abhimangs)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhimangs/)
@@ -25,14 +25,14 @@
 - 🎓 Computer Science major, deep in Linux and open source.
 - 🚀 I love building projects that interest me and help others along the way.
 - 🎓 I completed [**Harvard's CS50 Introduction to Computer Science**](https://certificates.cs50.io/baa4fbfe-b4ab-4938-8eb7-40b9a88017f7.pdf?size=letter) in May 2024.
-- ✅ Verified **n8n Creator** (Level 2 Certified) and **Notion Certified Admin & Service Partner**.
+- ✅ Verified **n8n Creator** (Level 2 Certified) and **[Notion Consulting Partner](https://www.notion.com/@abhimangs)** (Certified Admin & Service Partner).
 
 <!-- GitHub Stats -->
 ### 🍁 GitHub Stats
 
 <p align="center">
-  <img width="52%" src="https://github-stats-extended.vercel.app/api?username=abhimangs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=161b22&title_color=f2cc8f&text_color=f2cc8f&icon_color=ff914d" />
-  <img width="45%" alt="AbhimanGS's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=abhimangs&theme=monokai-metallian&hide_border=true&short_numbers=true&background=161b22" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=abhimangs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=161b22&title_color=f2cc8f&text_color=f2cc8f&icon_color=ff914d" />
+  <img width="48%" alt="AbhimanGS's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=abhimangs&theme=monokai-metallian&hide_border=true&short_numbers=true&background=161b22" />
 </p>
 
 <p align="center">
@@ -64,7 +64,11 @@ I build automation workflows in **n8n** to connect apps, APIs, and self-hosted s
 
 ### 🛠️ Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,arch,notion,obsidian,vscode,neovim,photoshop,md,wordpress)](https://github.com/abhimangs)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,arch,notion,obsidian,vscode,photoshop,cloudflare)](https://github.com/abhimangs)
+
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/creators/abhimangs/)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)](https://claude.com/claude-code)
+[![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)](https://opencode.ai)
 
 <hr>
 
