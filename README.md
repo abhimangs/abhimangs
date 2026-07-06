@@ -1,12 +1,13 @@
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm Abhiman</h1>
-<p align="center">🐍 Python Developer • 🧠 Notion Nerd • 🐧 Linux Customizer </p>
+<p align="center">🐍 Python Developer • 🔁 Automation Builder • 🧠 Notion Nerd • 🐧 Linux Customizer</p>
 
 <!-- Skills / Tools -->
 <div align="center">
 
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/@abhimangs)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
@@ -28,7 +29,7 @@
 <!-- GitHub Stats -->
 ### 🍁 GitHub Stats
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhimangs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=161b22&title_color=f2cc8f&text_color=f2cc8f&icon_color=ff914d" />
+  <img width="47%" src="https://github-stats-extended.vercel.app/api?username=abhimangs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=161b22&title_color=f2cc8f&text_color=f2cc8f&icon_color=ff914d" />
   <img width="50%" alt="AbhimanGS's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=abhimangs&theme=monokai-metallian&hide_border=true&short_numbers=true&background=161b22" />
 </p>
 
@@ -50,15 +51,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,bash)](https://github.com/abhimangs)
 
+### 🔁 Automation & Workflows
+
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
+[![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+
+I build automation workflows in **n8n** to connect apps, APIs, and self-hosted services — replacing repetitive manual work with triggers and pipelines.
+
 ### 🛠️ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,arch,notion,obsidian,vscode,neovim,photoshop,md,wordpress)](https://github.com/abhimangs)
-
-### ⚙️ PC Specifications
-
-<p align="left">
-  <img src="assets/spec-new.png" alt="My PC Specs" width="500"/>
-</p>
 
 <!-- Contact -->
 ### 🌐 Connect with Me
