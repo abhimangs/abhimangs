@@ -24,7 +24,7 @@
 ### 🧠 About Me
 - 🎓 Computer Science major, deep in Linux and open source.
 - 🚀 I love building projects that interest me and help others along the way.
-- 🎓 I completed [**Harvard's CS50 Introduction to Computer Science**](https://certificates.cs50.io/baa4fbfe-b4ab-4938-8eb7-40b9a88017f7.pdf?size=letter) in May 2024.
+- 🎓 I completed [**Harvard's CS50 Introduction to Computer Science**](https://certificates.cs50.io/baa4fbfe-b4ab-4938-8eb7-40b9a88017f7.pdf?size=letter) in 2024.
 - ✅ Verified **n8n Creator** (Level 2 Certified) and **[Notion Consulting Partner](https://www.notion.com/@abhimangs)** (Certified Admin & Service Partner).
 
 <!-- GitHub Stats -->
