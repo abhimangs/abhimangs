@@ -31,7 +31,7 @@
 ### 🍁 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=abhimangs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=161b22&title_color=f2cc8f&text_color=f2cc8f&icon_color=ff914d&v=2" />
+  <img width="45%" src="https://github-stats-extended.vercel.app/api?username=abhimangs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=161b22&title_color=f2cc8f&text_color=f2cc8f&icon_color=ff914d&v=2" />
   <img width="48%" alt="AbhimanGS's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=abhimangs&theme=monokai-metallian&hide_border=true&short_numbers=true&background=161b22" />
 </p>
 
