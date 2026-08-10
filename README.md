@@ -24,8 +24,8 @@
 ### 🧠 About Me
 - 🎓 Computer Science major, deep in Linux and open source.
 - 🚀 I love building projects that interest me and help others along the way.
-- 🎓 I completed [**Harvard's CS50 Introduction to Computer Science**](https://certificates.cs50.io/baa4fbfe-b4ab-4938-8eb7-40b9a88017f7.pdf?size=letter) in 2024.
-- ✅ Verified **n8n Creator** (Level 2 Certified) and **[Notion Consulting Partner](https://www.notion.com/@abhimangs)** (Certified Admin & Service Partner).
+- 🎓 I completed [**Harvard's CS50 Introduction to Computer Science**](https://certificates.cs50.io/baa4fbfe-b4ab-4938-8eb7-40b9a88017f7.pdf?size=letter).
+- ✅ Verified **[n8n Creator](https://n8n.io/creators/abhimangs/)** (Level 2 Certified) and **[Notion Consulting Partner](https://www.notion.com/@abhimangs)** (Certified Admin & Service Partner).
 
 <!-- GitHub Stats -->
 ### 🍁 GitHub Stats
@@ -51,7 +51,7 @@
 <!-- ⚙️ Skills & Tools -->
 ### 💻 Languages I Use
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,cpp,html,css,bash)](https://github.com/abhimangs)
+[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,bash)](https://github.com/abhimangs)
 
 ### 🔁 Automation & Workflows
 
@@ -67,6 +67,8 @@ I build automation workflows in **n8n** to connect apps, APIs, and self-hosted s
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,arch,notion,obsidian,vscode,photoshop,cloudflare)](https://github.com/abhimangs)
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)](https://claude.com/claude-code)
+[![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=white)](https://openai.com/codex/)
+[![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white)](https://antigravity.google/)
 [![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)](https://opencode.ai)
 
 <hr>
