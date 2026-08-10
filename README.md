@@ -17,8 +17,8 @@
 
 <!-- Projects -->
 ### 🧰 Featured Projects
-- 🎨 [**Vortex**](https://github.com/abhimangs/obsidian-vortex) – A beautifully animated and highly customized theme for Obsidian with **4500+ active users**.
-- 🛠️ [**dotfiles**](https://github.com/abhimangs/dotfiles) – My personal Linux dotfiles bundled with CLI tools and install scripts to set up my entire system in one go.
+- 🎨 [**Vortex**](https://github.com/abhimangs/obsidian-vortex): A beautifully animated and highly customized theme for Obsidian with **4500+ active users**.
+- 🛠️ [**dotfiles**](https://github.com/abhimangs/dotfiles): My personal Linux dotfiles bundled with CLI tools and install scripts to set up my entire system in one go. Works on **Ubuntu, Arch, and Debian**, plus WSL, headless servers, and SSH environments.
 
 <!-- About Section -->
 ### 🧠 About Me
@@ -60,7 +60,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
 
-I build automation workflows in **n8n** to connect apps, APIs, and self-hosted services — replacing repetitive manual work with triggers and pipelines.
+I build automation workflows in **n8n** to connect apps, APIs, and self-hosted services, replacing repetitive manual work with triggers and pipelines.
 
 ### 🛠️ Tools
 
