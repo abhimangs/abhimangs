@@ -51,7 +51,7 @@
 <!-- ⚙️ Skills & Tools -->
 ### 💻 Languages I Use
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,bash)](https://github.com/abhimangs)
+[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,bash)](https://github.com/abhimangs)
 
 ### 🔁 Automation & Workflows
 
@@ -64,7 +64,7 @@ I build automation workflows in **n8n** to connect apps, APIs, and self-hosted s
 
 ### 🛠️ Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,arch,notion,obsidian,vscode,photoshop,cloudflare)](https://github.com/abhimangs)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,arch,debian,ubuntu,notion,obsidian,vscode,photoshop,cloudflare)](https://github.com/abhimangs)
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)](https://claude.com/claude-code)
 [![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=white)](https://openai.com/codex/)
