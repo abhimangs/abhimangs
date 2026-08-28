@@ -33,10 +33,14 @@
   <img width="48%" alt="AbhimanGS's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=abhimangs&theme=monokai-metallian&hide_border=true&short_numbers=true&background=161b22" />
 </p>
 
+### 📅 Contribution Graph
+
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="98%", src="https://github-readme-activity-graph.vercel.app/graph?username=abhimangs&custom_title=✨%20Abhiman's%20GitHub%20Activity%20✨&hide_border=true&bg_color=161b22&color=f2cc8f&line=ff914d&point=ff914d&area=true" alt="Abhiman's GitHub Activity Graph"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhimangs/abhimangs/assets/github-metrics-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhimangs/abhimangs/assets/github-metrics-light.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/abhimangs/abhimangs/assets/github-metrics-dark.svg" alt="Abhiman's contribution graph" />
+  </picture>
 </p>
 
 <!-- GitHub Stats -->

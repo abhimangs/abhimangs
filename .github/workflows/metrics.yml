@@ -1,0 +1,78 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "30 18 * * *"    # 18:30 UTC = 00:00 IST — captures the full IST day so the streak matches
+  workflow_dispatch:          # manual "Run workflow" button
+
+permissions:
+  contents: write             # required: lets the action commit the SVGs back
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # ---------- DARK version (dark empty cells) ----------
+      - name: Dark
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-dark.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: abhimangs
+          output_action: commit
+          committer_branch: assets      # renders live on the 'assets' branch, keeping main history clean
+          base: ""
+          config_timezone: Asia/Kolkata
+          config_display: large
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          extras_css: |
+            h2, .row { display: none !important; }
+            path[fill="#ebedf0"] {
+              fill: #161b22 !important;
+              stroke: #2d333b !important;
+              stroke-width: 0.15 !important;
+            }
+          extras_js: |
+            const c = document.querySelector('svg[viewBox="0,0 480,270"]');
+            if (c) {
+              c.style.width = "100%";
+              c.style.height = "auto";
+              c.style.margin = "0";
+              const b = c.getBBox();
+              if (b && b.width > 0 && b.height > 0) {
+                c.setAttribute("viewBox", (b.x - 4) + " " + (b.y - 4) + " " + (b.width + 8) + " " + (b.height + 8));
+              }
+            }
+
+      # ---------- LIGHT version (light-grey empty cells) ----------
+      - name: Light
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-light.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: abhimangs
+          output_action: commit
+          committer_branch: assets      # renders live on the 'assets' branch, keeping main history clean
+          base: ""
+          config_timezone: Asia/Kolkata
+          config_display: large
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          extras_css: |
+            h2, .row { display: none !important; }
+            path[fill="#ebedf0"] {
+              stroke: #d0d7de !important;
+              stroke-width: 0.15 !important;
+            }
+          extras_js: |
+            const c = document.querySelector('svg[viewBox="0,0 480,270"]');
+            if (c) {
+              c.style.width = "100%";
+              c.style.height = "auto";
+              c.style.margin = "0";
+              const b = c.getBBox();
+              if (b && b.width > 0 && b.height > 0) {
+                c.setAttribute("viewBox", (b.x - 4) + " " + (b.y - 4) + " " + (b.width + 8) + " " + (b.height + 8));
+              }
+            }
