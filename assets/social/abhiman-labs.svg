@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="32" viewBox="0 0 124 32">
+  <style>
+    rect { fill: #fffaf4; stroke: #c9b8a3; }
+    text { fill: #5b371a; }
+    @media (prefers-color-scheme: dark) {
+      rect { fill: #211d19; stroke: #6c5945; }
+      text { fill: #f2cc8f; }
+    }
+  </style>
+  <rect x=".5" y=".5" width="123" height="31" rx="15.5"/>
+  <text x="50%" y="21" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="600">Abhiman Labs</text>
+</svg>
