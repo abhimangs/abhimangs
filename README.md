@@ -15,7 +15,8 @@
 
 <!-- Projects -->
 ### 🧰 Featured Projects
-- 🎨 [**Vortex**](https://github.com/abhimangs/obsidian-vortex): A beautifully animated and highly customized theme for Obsidian with **4500+ active users**.
+- 🎨 [**Vortex**](https://github.com/abhimangs/obsidian-vortex): A beautifully animated and highly customized theme for Obsidian with **5,000+ downloads**.
+- <img src="assets/arch-tracker.svg" width="20" height="20" alt=""> [**arch-tracker**](https://github.com/abhimangs/arch-tracker) tracks time spent in apps, on sites, in terminals, and with coding agents. Built in Rust for KDE Plasma on Wayland, it keeps the data on your machine.
 - 🛠️ [**dotfiles**](https://github.com/abhimangs/dotfiles): My personal Linux dotfiles bundled with CLI tools and install scripts to set up my entire system in one go. Works on **Ubuntu, Arch, and Debian**, plus WSL, headless servers, and SSH environments.
 
 <!-- About Section -->
@@ -29,8 +30,14 @@
 ### 🍁 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-stats-extended.vercel.app/api?username=abhimangs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=161b22&title_color=f2cc8f&text_color=f2cc8f&icon_color=ff914d&v=2" />
-  <img width="48%" alt="AbhimanGS's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=abhimangs&theme=monokai-metallian&hide_border=true&short_numbers=true&background=161b22" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=abhimangs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=161b22&title_color=f2cc8f&text_color=f2cc8f&icon_color=ff914d" />
+    <img width="45%" alt="Abhiman’s GitHub stats" src="https://github-stats-extended.vercel.app/api?username=abhimangs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=f6f8fa&title_color=854d0e&text_color=24292f&icon_color=9a4514" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=abhimangs&hide_border=true&short_numbers=true&background=161b22&ring=ff914d&fire=ff914d&currStreakLabel=f2cc8f&currStreakNum=f2cc8f&sideNums=f2cc8f&sideLabels=f2cc8f&dates=c9d1d9&stroke=30363d" />
+    <img width="48%" alt="Abhiman’s GitHub contribution streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=abhimangs&hide_border=true&short_numbers=true&background=f6f8fa&ring=9a4514&fire=9a4514&currStreakLabel=854d0e&currStreakNum=24292f&sideNums=24292f&sideLabels=854d0e&dates=57606a&stroke=d1d9e0" />
+  </picture>
 </p>
 
 ### 📅 Contribution Graph
@@ -83,5 +90,4 @@ I build automation workflows in **n8n** to connect apps, APIs, and self-hosted s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimangs)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhimansundararajan)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@abhimansundararajan)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/abhimangs)
 [![Twitter (X)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/abhimangs)
